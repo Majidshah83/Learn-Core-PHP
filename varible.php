@@ -12,8 +12,9 @@
     <?php
       $v1="majid";
       $last="shah";
+      var_dump($v1);
       $result ="My name is:" .$v1 . ' ' . $last;
-      echo $result;
+      echo $result;         
 
     
     ?>
